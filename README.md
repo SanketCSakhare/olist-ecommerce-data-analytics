@@ -8,14 +8,6 @@ Dataset source: [Brazilian E-Commerce Public Dataset by Olist on Kaggle](https:/
 
 E-commerce leaders need clear visibility into revenue, delivery performance, seller quality, customer reviews, and product category performance. This project transforms marketplace order data into dashboard-ready KPIs and business recommendations.
 
-## Why This Is a 10/10 Data Analyst Project
-
-- Uses a well-known Kaggle dataset with realistic relational tables.
-- Demonstrates SQL joins, KPI reporting, cohort-style logic, and dashboard-ready summaries.
-- Covers commercial, operational, and customer experience analysis.
-- Includes Python data processing, SQL queries, SVG dashboard previews, and stakeholder recommendations.
-- Includes demo data so the repo runs immediately before the Kaggle files are downloaded.
-
 ## Executive Summary
 
 This project answers six core business questions:
